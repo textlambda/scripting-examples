@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+PY_COMMAND="python3"
+$PY_COMMAND -i pod.py
